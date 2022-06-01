@@ -1,0 +1,1 @@
+Description:  React website UI with MongoDB database.  The website allows users to create a world name and characters to live in that world.  Each character has an inventory and stat points.  The characters can sell items to the merchant, update their stats, and add items to their inventory.  Interaction between the UI and server is handled through HTTP requests.
